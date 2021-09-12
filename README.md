@@ -1,9 +1,8 @@
-This account IS a throw away account
+Big fan of helping newbies use **monero-wallet-cli**
 
-Can't trust msft or github, so this account works until it doesn't
+Ran into the issue of the WAN IP address occassionally changing. This caused a maintenance nightmare, as folks wanting to sync their wallet discovered the ip address was no longer valid! Mitigate this by using a .onion address
 
-Can be contacted <faulkmore @ telegram>
+**servers** contains a list of .onion addresses. In the future, the list might be encrypted with the public key distributed only to those needing it. And since we are dealing with newbies, they might never be aware of the implementation.
 
-If you are interested in any form of collaboration send me a DM.
-If you want a reply, prepare and send a verbose pitch.
-If you don't want a reply write, "Hi"
+The goal of this effort, is a seamless UX experience for newbies. That even techies can appreciate
+
